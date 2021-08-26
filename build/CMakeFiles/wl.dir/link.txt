@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libwl.a CMakeFiles/wl.dir/factory/src/fs.cpp.o CMakeFiles/wl.dir/factory/src/reader.cpp.o
+/usr/bin/ranlib lib/libwl.a

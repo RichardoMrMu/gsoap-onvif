@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libssigonvif.a CMakeFiles/ssigonvif.dir/src/OnvifClientDevice.cpp.o CMakeFiles/ssigonvif.dir/src/OnvifClientMedia.cpp.o CMakeFiles/ssigonvif.dir/src/OnvifClientPTZ.cpp.o
+/usr/bin/ranlib ../../../../lib/libssigonvif.a
