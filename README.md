@@ -47,6 +47,15 @@ make -j
 ## Deployment
 From now, gsoap-onvif achieve the functions about absolute move, relative move, goto preset, get preset, get ptz configuration, get meida configuration, get device configuration, stop, zoom in and zoom out. You can use it control the camera and take photos with opencv.
 The specific test code is in [here](https://github.com/RichardoMrMu/gsoap-onvif/blob/main/factory/test/test_analyser.cpp).
+### make 
+
+```shell
+cd {project_path}/factory/build
+cmake ..
+make
+```
+You can run the test code to test whether gsoap-onvif can run well on your computer.
+
 ### Init
 You can use the following codes to init the PTZ and Media, to control the camera use ptz and get camera settings by media.
 
